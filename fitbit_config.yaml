@@ -1,0 +1,3 @@
+dailyActivity: "../Data/dailyActivity.csv"
+dailyCalories: "../Data/dailyCalories.csv"
+sleepDay: "../Data/sleepDay.csv"
