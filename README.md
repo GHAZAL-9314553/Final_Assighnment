@@ -12,13 +12,13 @@ third "I also want to know if there is a relationship between  calories burned a
 In conclusion, our focus on these two critical questions will give us a better understanding of the relationship between fitness and sleep time, as well as fitness and caloric burn. This information will help us make informed decisions about how to optimize our fitness routine to improve our overall health and well-being.
 
 this assignment consists of : 
-data loading
-data cleaning 
-data wrangling
-data inspection 
-assumption 
-statistics part
-argements 
-visualisation
-interactive plots
+data loading ,
+data cleaning ,
+data wrangling ,
+data inspection ,
+assumption ,
+statistics part ,
+argements ,
+visualisation ,
+interactive plots ,
 dashboard
